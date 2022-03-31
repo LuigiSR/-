@@ -1,0 +1,31 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+            Driver
+             L298
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+- Descrição:
+
+ste Driver Motor Ponte H é baseado no chip L298N, construído para controlar cargas indutivas como relés, solenoides, motores DC e motores de passo. Com este Driver Ponte H L298M é possível controlar independentemente a velocidade e rotação de 2 motores DC ou 1 motor de passo.
+Possui terminais parafusáveis para fácil instalação e buracos nas extremidades da placa para fixação.
+==============================
+
+- Especificação:
+
+– Tensão de Operação: 4~35v
+– Chip: ST L298N (datasheet)
+– Controle de 2 motores DC ou 1 motor de passo
+– Corrente de Operação máxima: 2A por canal ou 4A max
+– Tensão lógica: 5v
+– Corrente lógica: 0~36mA
+– Limites de Temperatura: -20 a +135°C
+– Potência Máxima: 25W
+– Dimensões: 43 x 43 x 27mm
+– Peso: 30g
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

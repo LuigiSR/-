@@ -1,0 +1,29 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+         O que é um 
+           driver ?
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+De forma simples, o driver é um pequeno programa 
+que permite que o sistema operacional do computador
+possa se comunicar com o dispositivo conectado a ele. 
+Basicamente faz com que um mouse, uma impressora e 
+outros componentes possam ser interpretados pelo sistema 
+e realizem suas ações da forma correta.
+
+Se você tentar utilizar um dispositivo sem o driver instalado,
+é muito provável que ele não funcione de forma correta ou 
+ainda que não funcione de forma alguma, visto que seu computador
+não irá identificar e interpretar os comandos vindos do hardware 
+conectado.
+
+============================
+
+LINK: https://canaltech.com.br/produtos/drivers-entenda-o
+-que-sao-e-como-eles-funcionam-195604/
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

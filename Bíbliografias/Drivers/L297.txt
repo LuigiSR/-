@@ -1,0 +1,30 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+            Driver
+             L297
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+- Descrição:
+
+O IC do controlador de motor de passo L297 gera sinais de acionamento de quatro fases para motores de passo bipolares bifásicos e unipolares de quatro fases em aplicações controladas por microcomputador. O motor pode ser acionado em meio passo, modos de acionamento normal e wawe e circuitos de chopper PWM no chip permitem o controle de modo de comutação da corrente nos enrolamentos. Uma característica deste dispositivo é que ele requer apenas sinais de entrada de relógio, direção e modo. Como as fases são geradas internamente, a carga do microprocessador e do programador é bastante reduzida. Montado em pacotes DIP20 e SO20, o L297 pode ser usado com drives de ponte monolítica como o L298N ou L293E, ou com transistores discretos e darlingtons.
+
+============================
+
+- Todos os recursos:
+
+- REINICIAR ENTRADA E SAÍDA PRINCIPAL;
+- POUCOS COMPONENTES EXTERNOS;
+- CONDUÇÃO NORMAL/ONDA;
+- SENTIDO HORÁRIO/ANTI-HORÁRIO;
+- MODOS DE MEIO PASSO/PASSO COMPLETO;
+- CORRENTE DE CARGA PROGRAMÁVEL;
+- ATIVAR ENTRADA;
+- REGULAÇÃO DE CORRENTE DE CARGA DO MODO DE INTERRUPTOR;
+
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

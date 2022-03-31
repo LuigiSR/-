@@ -1,0 +1,35 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+            Driver
+           ULN 2003
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+- Descrição:
+
+O motor de passo 28BYJ-48 possui ótimo torque, unipolar, alimentação de 5V e redução de 1/64, isto significa que é possível dar uma volta completa com 4096 passos, ou seja, apenas ~0,088° por passo.
+
+Não bastasse isso, este motor de passo acompanha o driver ULN2003, um driver de corrente que permite o Arduino controlar motores com correntes superiores a 50mA, neste caso até 500mA. Este módulo possui LEDs que indicam o acionamento das bobinas e opera com tensões de 5-12V.
+
+=============================
+
+- Especificações:
+
+– Modelo: 28BYJ-48 (datasheet);
+– Driver: ULN2003 (datasheet);
+– Tensão: 5VDC;
+– Número de fase: 4;
+– Número de vias: 5; 
+– Caixa de Redução: 1/64;
+– Diâmetro do eixo: 5mm;
+– Ângulo do Passo: 5,625°/64 ~ 0,088°;
+– Frequência: 100Hz;
+– Resistência DC: 50Ω ± 7%(25℃);
+– Torque: 34,3 mN.m;
+– Peso: 40g;
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

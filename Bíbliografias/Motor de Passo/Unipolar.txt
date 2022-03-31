@@ -1,0 +1,51 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+        MOTOR DE PASSO
+           UNIPOLAR
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+Na configuração unipolar, cada fase do motor é composta por dois 
+enrolamentos. Um motor bifásico composto pelas fases A e B e o motor
+possui quatro enrolamentos de bobinas.
+
+A fase A é composta por A+ e A-
+A fase B é composta por B+ e B-
+
+Em cada bobina, a corrente só pode fluir em um único sentido.
+É por isso que o chamamos de unipolar.
+
+No caso do acionamento por tensão, o sistema de controle é muito 
+fácil, pois há um transistor (chave) por bobina. Quando o transistor
+fecha, a bobina é energizada. Para comutar, os transistores são
+fechados e abertos alternadamente.
+
+Os transistores Q1 e Q2 não podem ser fechados ao mesmo tempo. Para
+energizar a fase A, fechamos o transistor Q1 ou Q2, dependendo do
+sentido da corrente em que desejamos trabalhar.
+
+Com o controle unipolar, apenas metade da fase é energizada por vez,
+o que significa que a corrente usa apenas metade do volume de cobre. 
+Normalmente, resistências seriais de acionamento por tensão são 
+aplicadas para diminuir a constante de tempo elétrica.
+==============================
+
+DATASHEET MOTOR DE PASSO UNIPORLAR
+Unipolar Stepper Motor Driver IC
+
+-------->>> DRV8805 
+
+==============================
+LINK:
+
+https://www.portescap.com/pt-BR/recursos/documentos-e-desenhos/
+informe-tecnico/diferen%C3%A7a-entre-acionamento-bipolar-e-acionamento
+-unipolar-para-motores-de-passo#:~:text=Um%20motor%20bipolar%20tem%2C
+%20geralmente,(veja%20a%20Figura%208)
+
+https://www.ti.com/lit/ds/symlink/drv8805.pdf?ts=1647516519835&ref_
+url=https%253A%252F%252Fwww.google.com%252F
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

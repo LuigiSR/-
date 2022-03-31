@@ -1,0 +1,61 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+       O QUE É O MOTOR
+          DE PASSO ?
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+O motor de passo é um tipo de motor que tem a capacidade de converter um 
+sinal de entrada em um ângulo de rotação, com extrema precisão de giro.
+Diferente de outros motores, o motor de passo possui um número fixo de 
+polos magnéticos, que determinam os passos do motor sem a necessidade de
+escovas. A precisão do ângulo de rotação do motor de passo é determinada 
+pelo seu número de passos.
+
+Dessa forma, é necessário um circuito de controle para enviar o sinal que 
+será convertido em um ângulo de rotação. Cada pulso recebido por esse circuito 
+de controle corresponde à um passo de 1,8 graus (na maioria dos motores de passo) 
+dado pelo motor. Já a velocidade do motor é dada pela frequência de entrada dos 
+pulsos.
+
+==============================
+CARACTERÍSTICAS:
+O motor de passo possui algumas características que o diferencia dos outros 
+modelos de motores existentes, são elas:
+
+Inexistência de escovas: o motor de passo não possui escovas em seu conjunto 
+estrutural.
+ - As escovas são um ponto que apresenta grande falha nos motores, e elas ainda 
+podem criar arcos elétricos, que não são desejáveis em determinados ambientes.
+ - Independência da carga: a velocidade do motor de passo não é afetada pela 
+carga, desde que esta esteja dentro dos parâmetros desenvolvidos para o motor.
+ - Posicionamento em malha aberta: Os passos do motor de passo podem ser 
+quantificados, desde que o motor funcione com um torque especificado, a posição 
+do eixo é conhecida sem a necessidade de um mecanismo de realimentação.
+================================
+APLICAÇÕES:
+O motor de passo tem a sua aplicação em qualquer processo que necessite de uma 
+exatidão de movimentos. Com o passar dos anos, o motor de passo tem sido aplicado
+com maior frequência, principalmente pelo seu tamanho reduzido, assim como o seu
+custo e a sua adaptação aos diversos tipos de circuitos controladores.
+
+Algumas aplicações do motor de passo são em drives de disquetes, scanners planos, impressoras, 
+injeção eletrônica nos automóveis, seguidores solares etc.
+
+Uma outra aplicação para o motor de passo é a sua ligação utilizando o Arduíno. 
+O Arduíno é uma boa opção de controle para a utilização do motor de passo na 
+construção de sistemas de automação e na robótica.
+===================================
+LINK:
+https://www.mundodaeletrica.com.br/o-que-e-motor-de-passo-funcionamento-
+aplicacoes/#:~:text=O%20motor%20de%20passo%20%C3%A9,sem%20a%20necessidade%20de%
+20escovas.
+
+https://www.filipeflop.com/blog/o-que-e-motor-de-passo-entenda-seu-funcionamento-
+e-aplicacoes/
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+

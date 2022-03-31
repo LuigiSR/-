@@ -1,0 +1,18 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+            PICKIT
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+O Pickit 3 é um gravador de baixo custo, mais rápido se comparado com versões anteriores e que realiza a gravação dos microcontroladores PIC por meio de conexão ICSP (In Circuit Serial Programming). Suporta os microcontroladores PIC das linhas PIC16F, PIC18F, dsPIC33f, PIC24 e PIC 32. Para uma lista completa dos microcontroladores suportados, acesse este link.
+
+O Pickit 3 pode ser usado diretamente com o MPLAB. Nesse caso, o programa é compilado, transferido para o Pickit 3 e em seguida gravado diretamente no microcontrolador. Nós já vimos como instalar o MPLAB no post Programando PIC16F628A para piscar um led, e agora vamos explicar como utilizar o MPLAB com o compilador gratuito da Microchip.
+
+==============================
+
+LINK: https://www.filipeflop.com/blog/como-utilizar-gravador-pic-pickit-3/
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•

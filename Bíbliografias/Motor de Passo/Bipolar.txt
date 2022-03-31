@@ -1,0 +1,118 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+        MOTOR DE PASSO
+            BIPOLAR 
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+Os Motores de Passo são de extrema importância em projetos 
+em que há a necessidade da movimentação de um objeto com 
+precisão, já que os motores podem ser controlados através de 
+sinais digitais que são enviados para as suas bobinas, permitindo a 
+rotação fracionada do seu eixo.
+
+A rotação pode ser lida em passos ou ângulos necessários para uma 
+volta completa daquele mesmo motor, a configuração do passo pode 
+tornar um motor mais rápido, porém menos preciso, no caso de poucos
+passos para uma volta completa. Ou menos rápido e mais preciso, em
+casos com mais passos necessários para uma volta completa, essa 
+configuração será feita de acordo com as exigências do projeto.
+
+Se você tiver, por exemplo, um motor com ângulo de passo de 1,8°, 
+para uma volta completa serão necessários 200 passos, que é o valor 
+de 360° (ângulo total de um círculo ou uma volta), dividido pelo 
+ângulo de cada passo individual.
+
+Para análise de um motor e escolha do melhor modelo para o seu 
+projeto, é necessário avaliar os seguintes parâmetros:
+
+- Polaridade: Um motor de passo pode ser dividido em dois modelos de
+acordo com a polaridade, sendo bipolar e unipolar, a principal 
+característica de um motor unipolar é a derivação central em suas 
+bobinas, enquanto que o modelo bipolar não conta com a derivação. 
+Lembrando que não é o motor em si que é bipolar ou unipolar, e sim o
+driver que é necessário para a ligação desses motores, é utilizado 
+“motor bipolar/unipolar” apenas por convenção.
+
+- Número de fases:O número de fases de um motor se refere às 
+diferentes combinações de polos energizados em sequência para atrair 
+o rotor, o número de fases interfere diretamente no ângulo de passo 
+do motor.
+
+- Torque (Kgf.cm):  O torque é proporcional ao produto da corrente do
+acionamento e o número de enrolamentos da bobina, quando há um  número maior de enrolamentos o torque é maior, mas em consequência, a velocidade do motor é menor, sendo o contrário também verdadeiro, se há um menor número de enrolamentos a velocidade é maior e o torque menor. Para a escolha do melhor motor para o seu projeto é necessário que a curva de torque do motor seja analisada, essa curva pode ser encontrada no datasheet do motor. Como o torque máximo de um motor é quando o mesmo está parado, para dimensionamento é recomendada a utilização do valor de torque de acordo com a corrente nominal total.
+
+- Velocidade (RPM):Assim como mencionado no tópico sobre torque, o 
+número de enrolamentos de uma bobina afeta diretamente na velocidade 
+de um motor, sendo que o número de enrolamentos é diretamente 
+proporcional ao torque e inversamente proporcional a velocidade de um
+motor de passo. Além disso, a quantidade de passos também interfere 
+na velocidade, quanto mais passos forem necessários para um motor 
+girar, menor a sua velocidade, pois o motor precisa aguardar esses 
+pulsos. A unidade de medida da velocidade é a RPM (rotação por minuto).
+
+- Modelo:  Entre os motores de passo existem os modelos Nema 17,
+Nema 23 e Nema 34, sendo que os números que definem os modelos são 
+correspondentes a dimensão da secção do motor em polegadas (0,1). 
+Por exemplo, um Nema 17 tem 1,7 polegadas, o que equivale a 
+aproximadamente 43,18mm. Além da diferença de dimensão entre os 
+modelos de Nema, também há mudanças significativas no torque, 
+confira as informações na folha de dados dos motores.
+
+- Driver:
+
+Para a utilização do motor de passo é necessário o uso de drivers
+ para enviar os pulsos necessários para acionamento das bobinas.
+==============================
+
+Onde é utilizado:
+
+- Braços Robóticos;
+- Impressoras 3D;
+- Impressoras de jato de tinta;
+- Máquinas de corte a laser;
+- Rotuladores,
+- CNCs;
+- Esteiras;
+
+=================================
+Principais características:
+
+Modelo de motor: VZS1740-042-0404;
+Padrão: Nema 17;
+Torque de retenção: 4,2Kgf.cm
+Inércia do rotor: 54gf.cm²
+Corrente por fase: 0,4A;
+Tensão de fase: 12V;
+Resistência: 30±10%Ω (por fase);
+Indutância: 60±20%mH (por fase);
+Fios: 4;
+Conexão: Bipolar;
+Ângulo de Passo: 1,8° ±5%;
+Resistência de isolação: 100MΩ Min, 500VDC;
+Força diaelétrica: 500 VAC/1 Min
+Aumento de temperatura: 80°C (Max);
+Temperatura ambiente: -20°C a 50°C
+Força Radial: 28N (Máx);
+Força Axial: 10N (Máx);
+Dimensões: 42,3 x 42,3x 39,5 (mm)
+Peso: 0,25Kg
+
+
+Datasheet: VZS1740-042-0404
+
+=================================
+LINK:
+https://www.curtocircuito.com.br/motor-de-passo-nema-17-4-2-kgf-cm
+-0-4a-vurtz.html?utm_term=&utm_campaign=&utm_source=adwords&utm_
+medium=ppc&hsa_acc=7016354091&hsa_cam=15490084779&hsa_grp=1275723
+20861&hsa_ad=567478109692&hsa_src=g&hsa_tgt=pla-1612706428981&hsa
+_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQjwuMuRBhCJARIsAH
+XdnqPSmVKkLsN4qLFF6T4UxZKvBm-_0fQFSg-CDtpsG6KXhBq-zNq6b8IaAu4lEALw_wcB
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+
+ 

@@ -1,0 +1,21 @@
+==============================
+      ╔─────┨ ۞ ┠─────╗
+             IHM
+           Display
+           Teclado
+      ╚─────┨ ۞ ┠─────╝
+==============================
+
+Descrição:
+
+Sendo um dos sistemas mais inovadores da automação industrial, IHM é a sigla de Interface Homem-Máquina, que, em inglês, é HMI e significa Human Machine Interface. A IHM é uma interface gráfica que simplifica e torna ainda mais eficiente a comunicação do homem com as máquinas e plantas de produção. Ela possui um dispositivo ou software que traduz uma infinidade de dados em informações práticas e descomplicadas.
+
+Quanto ao formato, a IHM possui uma tela parecida com um tablet, porém, é mais robusta e protegida contra os riscos em que fica exposta no ambiente de chão de fábrica, onde podem ocorrer colisões e força excessiva, por exemplo. Podendo receber uma tela touch screen, algumas delas contam com um teclado interligado. Todavia, nem todas são tão modernas assim. Há aquelas que não possuem o processador e funcionam somente como transmissoras de informação.
+
+Fornecendo uma melhor interação com a máquina, as IHMs permitem uma visualização simplificada, onde aparecem janelas digitais com mensagens e animações. O objetivo é que o usuário entenda, da forma mais clara possível, como utilizar esse sistema e realizar as atividades necessárias, dispensando o conhecimento de programação.
+
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
+•━═∞═━═∞═━═∞═━═∞═━━═∞═━═∞═━═∞═━═∞═━•
