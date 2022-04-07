@@ -1,0 +1,7 @@
+==============================
+      ══════ஜ▲ஜ══════
+     |   07/03/2022  |
+      ══════ஜ▲ஜ══════
+===============================
+No dia de hoje avançamos bastante na parte da progrmação e complementamamos a parte do projeto. Acabos abandonando o projeto no proteus pois estava acontecendo inúmeros erros e decidimos usar o simulid.
+Para facilitar usaremos o projeto do professor do teclado e iremos fazer apenas algumas motificações.
